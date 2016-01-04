@@ -1,0 +1,130 @@
+body {
+	background: url(tweed.png) repeat 0 0;
+}
+
+.navbar-default {
+	background: url(tweed.png) repeat 0 0;
+}
+
+.jumbotron {
+	background: url(tweed.png) repeat 0 0;
+}
+
+#smaller {
+	font-size: 100%;
+	color: #C0C0C0;
+}
+
+#header {
+	font-family: 'Bree Sarif', serif;
+	color: #C0C0C0;
+}
+
+#main {
+	font-family: 'Alegraya Sans', serif;
+	color: #C0C0C0;
+}
+
+.active {
+	color: "blue";
+}
+.tldr {
+	margin-top: 75px;
+	height: 25em;
+	float: left;
+    border-radius: 5px;
+    width: 20em; 
+    margin-right: 35px;
+
+
+    border: 2px solid black;
+    word-wrap: break-word;
+    
+    background: Cyan; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, Cyan , DeepSkyBlue ); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, Cyan, DeepSkyBlue ); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, Cyan, DeepSkyBlue ); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, Cyan , DeepSkyBlue ); /* Standard syntax (must be last) */
+}
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+a {
+	color: black;
+}
+.container {
+	width: 100%;
+	overflow: hidden;
+}
+.personal {
+	margin-top: 75px;
+	height: 25em;
+	float: left;
+    border-radius: 5px;
+    width: 20em; 
+    margin-right: 35px;
+
+
+    border: 2px solid black;
+    word-wrap: break-word;
+    
+    background: Tan; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, Wheat , Tan ); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, Wheat, Tan ); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, Wheat, Tan ); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, Wheat , Tan ); /* Standard syntax (must be last) */
+}
+.scripts {
+	margin-top: 75px;
+	height: 25em;
+	float: left;
+    border-radius: 5px;
+    width: 20em; 
+    margin-right: 35px;
+
+
+    border: 2px solid black;
+    word-wrap: break-word;
+    
+    background: Blue; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, CadetBlue , Yellow ); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, CadetBlue, Yellow ); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, CadetBlue, Yellow ); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, CadetBlue , Yellow ); /* Standard syntax (must be last) */
+}
+
+.git {
+	margin-top: 75px;
+	height: 25em;
+	float: left;
+    border-radius: 5px;
+    width: 20em; 
+    margin-right: 15px;
+
+
+    border: 2px solid black;
+    word-wrap: break-word;
+    
+    background: HotPink; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, HotPink , MediumOrchid ); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, HotPink, MediumOrchid ); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, HotPink, MediumOrchid ); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, HotPink , MediumOrchid ); /* Standard syntax (must be last) */
+}
+
+#git {
+	width: 100%;
+    margin-bottom: 10px;
+}
+
+#py {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 200%;
+    color: #C0C0C0;
+}

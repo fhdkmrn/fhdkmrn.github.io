@@ -1,0 +1,36 @@
+body {
+	background: url(tweed.png) repeat 0 0;
+}
+
+.navbar-default {
+	background: url(tweed.png) repeat 0 0;
+}
+
+.jumbotron {
+	background: url(tweed.png) repeat 0 0;
+}
+
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+#smaller {
+	font-size: 100%;
+	color: #C0C0C0;
+}
+
+#header {
+	font-family: 'Bree Sarif', serif;
+	color: #C0C0C0;
+}
+
+#main {
+	font-family: 'Alegraya Sans', serif;
+	color: #C0C0C0;
+}
+
+.active {
+	color: "blue";
+}
