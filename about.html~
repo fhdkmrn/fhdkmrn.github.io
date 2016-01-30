@@ -38,7 +38,7 @@
              <p id="main"> I am also on the executive committee as the Data Analyst for Computer Science Mentors, a group which aims to provide tutoring for those who need it in lower division Computer Science classes. I will also be teaching CS70, Disecrete Mathematics and Probability, in its pioneering semester for CSM. </p>
              <p></p>
              <p id="main"> I am starting as a Data Analyst for a new bioinformatics company called Girihlet whose goal is provide rapid and accurate deep sequencing services, while attempting to do so using novel technlogies and methods. 
-             <form method="get" action="newresume.pdf">
+             <form method="get" action="resumenew.pdf">
 <button class='btn btn-default btn-success btn-lg' type="submit">Click here to download my resume!</button>
 </form> 
         </div> 
