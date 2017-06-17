@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DSC00385.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-10T22:15:24Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:10 18:15:25 -0400</string>
+		<key>FileSize</key>
+		<integer>7372800</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FFE9F352C87940E368132D9FC6D153EA6D1EF668186EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00386.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-10T22:15:34Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:10 18:15:35 -0400</string>
+		<key>FileSize</key>
+		<integer>7929856</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FE1F181617E29B2F5B379497AA25B32DE854493F686EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+</dict>
+</plist>

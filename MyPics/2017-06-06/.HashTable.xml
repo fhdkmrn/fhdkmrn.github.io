@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DSC00374.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-06T17:09:22Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:06 13:09:22 -0400</string>
+		<key>FileSize</key>
+		<integer>8028160</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F4E3A6C5C703D6FE20B8AA816B21F23DEDE8E869786EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00376.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-06T17:10:02Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:06 13:10:02 -0400</string>
+		<key>FileSize</key>
+		<integer>8585216</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FA0E03FD4FFA57B0EA812DD042E120AA1BA24190D86EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00377.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-06T17:13:46Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:06 13:13:47 -0400</string>
+		<key>FileSize</key>
+		<integer>7340032</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FF9373F0DA70C2341FCCFCB75FFEB89A9D2B2C80386EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00378.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-06T17:14:08Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:06 13:14:08 -0400</string>
+		<key>FileSize</key>
+		<integer>8945664</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FC55C62767D1494D3DC0D8186D14A178DED23CEED86EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DSC00353.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-01T13:16:58Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:01 09:16:58 -0400</string>
+		<key>FileSize</key>
+		<integer>8683520</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F6A51333D41958055F84C66D60BEFB4689DFA79EF86EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00354.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-01T13:17:10Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:01 09:17:10 -0400</string>
+		<key>FileSize</key>
+		<integer>8552448</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F35CCA15D35C5677969C45878B6B654B27A7C7CCC86EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00355.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-01T13:17:30Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:01 09:17:30 -0400</string>
+		<key>FileSize</key>
+		<integer>6193152</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F8FA6EEE56AB53417F86A3E929298C430D380315986EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00356.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-01T13:18:08Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:01 09:18:08 -0400</string>
+		<key>FileSize</key>
+		<integer>9961472</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F28882AC76356BAF05AAE6837C45BC54E234A682786EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00357.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-01T13:19:00Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:01 09:19:00 -0400</string>
+		<key>FileSize</key>
+		<integer>8880128</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FD8D84199B8C8C898DFE9FF1D974E2954B661895D86EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+</dict>
+</plist>
