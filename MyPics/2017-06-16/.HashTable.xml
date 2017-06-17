@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DSC00396.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:02:16Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:02:16 -0400</string>
+		<key>FileSize</key>
+		<integer>6750208</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F614A60B536BDDA3FE10690CD475F698FF2E6C21486EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00397.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:02:28Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:02:28 -0400</string>
+		<key>FileSize</key>
+		<integer>6782976</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F728FE0E5FD7261EFCE41EFDBDC8BE56F34CD5E5086EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00398.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:03:16Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:03:16 -0400</string>
+		<key>FileSize</key>
+		<integer>5799936</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F5EF4AE50855ADEF1C965E21054E48FE994B2C17786EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00399.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:06:10Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:06:11 -0400</string>
+		<key>FileSize</key>
+		<integer>7110656</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F439193EC503CE37301817ACF4B33E2C7555A0CD686EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00400.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>32</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:08:46Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:08:47 -0400</string>
+		<key>FileSize</key>
+		<integer>6062080</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FC65DD4306DDB4A65C27AA8C84E6FEA5E99B1D61586EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00401.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:10:56Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:10:56 -0400</string>
+		<key>FileSize</key>
+		<integer>6324224</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F2DBC378F92F02F6C3D89A7E05D97E87CD8CD8FF586EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00402.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:11:38Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:11:39 -0400</string>
+		<key>FileSize</key>
+		<integer>6127616</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FB270362ACB34E6D103BE6DEF41735DE7ABEA2F7786EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00403.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:13:28Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:13:29 -0400</string>
+		<key>FileSize</key>
+		<integer>5832704</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544F0BE7DFDE7C5BA068FBFEF9C7B48CEC9866BD2F9886EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+	<key>DSC00404.JPG</key>
+	<dict>
+		<key>CameraMetaTypes</key>
+		<integer>0</integer>
+		<key>DateCreated</key>
+		<date>2017-06-16T17:18:46Z</date>
+		<key>DateTaken</key>
+		<string>2017:06:16 13:18:46 -0400</string>
+		<key>FileSize</key>
+		<integer>6422528</integer>
+		<key>HashValue</key>
+		<string>0003000050484F544FE94A04F749545436AA23642BDAEAA278BAA9F79986EE17877356E4E2F23B1F9AC60F3ABD69B7C4854A5045470000000001000000000000</string>
+	</dict>
+</dict>
+</plist>
