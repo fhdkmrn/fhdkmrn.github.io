@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="shortcut icon" href="image/sport.ico" type="image/x-icon">
+<link rel="shortcut icon" href="../image/sport.ico" type="image/x-icon">
 <style>
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 h1,h6 {
@@ -33,7 +33,7 @@ img {
   margin: 0 auto;
 }
 header {
-  background-image: url("image/banner.png");
+  background-image: url("../image/banner.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -44,27 +44,28 @@ header {
   padding: 0px; 
   outline: none;
   border: 0px;
-   margin-top: 0px;
-   margin-right: 0px;
-   margin-bottom: 0px;
-   margin-left: 0px;
-   width:100%;
-   border-style: none;
-
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width:100%;
+  border-style: none;
 }
+
 .active {
   color:#000!important;background-color:#ccc!important
 }
+
 </style>
 <body class="w3-dark-grey">
-<div class="w3-bar w3-black w3-hide-small">
-  <a href="home.html" class="w3-bar-item w3-button active">Home</a>
-  <a href="posts/index.html" class="w3-bar-item w3-button">All Posts</a>
-  <a href="posts/football/index.html" class="w3-bar-item w3-button">Football</a>
-  <a href="posts/am_football/index.html" class="w3-bar-item w3-button">American Football</a>
-  <a href="posts/bball/index.html" class="w3-bar-item w3-button">Basketball</a>
-  <a href="posts/other/index.html" class="w3-bar-item w3-button">Other Sports</a>
-  <a href="about.html" class="w3-bar-item w3-button">About</a> 
+<div class="w3-bar w3-black w3-mobile">
+  <a href="../home.html" class="w3-bar-item w3-button">Home</a>
+  <a href="index.html" class="w3-bar-item w3-button active">All Posts</a>
+  <a href="football/index.html" class="w3-bar-item w3-button">Football</a>
+  <a href="am_football/index.html" class="w3-bar-item w3-button">American Football</a>
+  <a href="bball/index.html" class="w3-bar-item w3-button">Basketball</a>
+  <a href="other/index.html" class="w3-bar-item w3-button">Other Sports</a>
+  <a href="../about.html" class="w3-bar-item w3-button">About</a> 
 </div>
    
 <!-- w3-content defines a container for fixed size centered content, 
@@ -79,7 +80,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
   <!-- Grid -->
 <div class="w3-row w3-padding w3-border">
-<h2> Recent Posts</h2>
+<h2> All Posts</h2>
       <div class="w3-col l6 s12">
 
       <div class="w3-light-blue w3-light-grey w3-margin w3-padding-large">
@@ -91,7 +92,7 @@ and is wrapped around the whole page content, except for the footer in this exam
         <div class="w3-justify">
           <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
             magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-              <img src="posts/am_football/surprises/images/hunt.jpg">
+              <img src="am_football/surprises/images/hunt.jpg">
           <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
           <p class="w3-clear"></p>
           <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
@@ -107,14 +108,14 @@ and is wrapped around the whole page content, except for the footer in this exam
 
       <div class="w3-light-blue w3-light-grey w3-margin w3-padding-large">
         <div class="w3-center">
-          <h3><a href="posts/football/underappreciated/post.html">Underappreciated Football Stars in Europe's Top Leagues</a></h3>
+          <h3><a href="football/underappreciated/post.html">Underappreciated Football Stars in Europe's Top Leagues</a></h3>
           <h5><span class="w3-opacity">Jan 3, 2018</span></h5>
         </div>
 
         <div class="w3-justify">
           <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
             magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-            <img src="posts/football/underappreciated/images/nacho.jpg">
+            <img src="football/underappreciated/images/nacho.jpg">
           <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
           <p class="w3-clear"></p>
           <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
@@ -125,6 +126,7 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
       </div>
     </div>
+
   </div>
 </div>
 
