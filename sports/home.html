@@ -10,12 +10,35 @@
 <link rel="shortcut icon" href="image/sport.ico" type="image/x-icon">
 <style>
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
-body {font-family: "Open Sans"}
-</style>
-<body class="w3-light-grey">
+h1,h6 {
+  color: white;
+}
+h2 {
+  color: light-grey;
+}
+body {
+  font-family: "Open Sans";
+}
+img {
+  width: 100%;
+  height:100%;
+  display: block;
+  margin: 0 auto;
+}
+header {
+  background-image: url("image/banner.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
 
-<!-- Navigation bar with social media icons -->
-<div class="w3-bar w3-blue w3-hide-small">
+.w3-content {
+  margin:0;
+  padding:0;
+}
+
+</style>
+<body class="w3-dark-grey">
+<div class="w3-bar w3-black w3-hide-small">
   <a href="home.html" class="w3-bar-item w3-button">Home</a>
   <a href="posts/index.html" class="w3-bar-item w3-button">All Posts</a>
   <a href="posts/football/index.html" class="w3-bar-item w3-button">Football</a>
@@ -27,20 +50,20 @@ body {font-family: "Open Sans"}
    
 <!-- w3-content defines a container for fixed size centered content, 
 and is wrapped around the whole page content, except for the footer in this example -->
-<div class="w3-content" style="max-width:1600px">
+<div class="w3-content" style="max-width:1800px">
 
   <!-- Header -->
-  <header class="w3-container w3-center w3-padding-48 w3-white">
-    <h1 class="w3-xxxlarge" color="blue"><b>FAHAD KAMRAN</b></h1>
-    <h6>Welcome to the Sports Blog of <span class="w3-tag">Fahad Kamran </span></h6>
+  <header class="w3-container w3-center w3-padding-48">
+    <h1 class="w3-xxxlarge"><b>FAHAD'S GOT BALLS</b></h1>
+    <h6>A Sports Blog by Fahad Kamran</h6>
   </header>
 
   <!-- Grid -->
   <div class="w3-row w3-padding w3-border">
-<h2> Recent Posts</h1>
+<h2> Recent Posts</h2>
       <div class="w3-col l6 s12">
 
-      <div class="w3-light-blue w3-white w3-margin w3-padding-large">
+      <div class="w3-light-blue w3-light-grey w3-margin w3-padding-large">
         <div class="w3-center">
           <h3><a href="posts/am_football/surprises/post.html">Top 3 Positive Surprises in the 2017 NFL Season</a></h3>
           <h5><span class="w3-opacity">Jan 3, 2018</span></h5>
@@ -49,6 +72,7 @@ and is wrapped around the whole page content, except for the footer in this exam
         <div class="w3-justify">
           <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
             magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+              <img src="posts/am_football/surprises/images/hunt.jpg">
           <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
           <p class="w3-clear"></p>
           <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
@@ -62,7 +86,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
       <div class="w3-col l6 s12">
 
-      <div class="w3-light-blue w3-white w3-margin w3-padding-large">
+      <div class="w3-light-blue w3-light-grey w3-margin w3-padding-large">
         <div class="w3-center">
           <h3><a href="posts/football/underappreciated/post.html">Underappreciated Football Stars in Europe's Top Leagues</a></h3>
           <h5><span class="w3-opacity">Jan 3, 2018</span></h5>
@@ -71,6 +95,7 @@ and is wrapped around the whole page content, except for the footer in this exam
         <div class="w3-justify">
           <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
             magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+            <img src="posts/football/underappreciated/images/nacho.jpg">
           <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
           <p class="w3-clear"></p>
           <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
