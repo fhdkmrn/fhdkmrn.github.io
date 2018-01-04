@@ -8,6 +8,17 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="shortcut icon" href="../image/sport.ico" type="image/x-icon">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script> 
+   $(function(){
+    $("#firstDiv").load("am_football/surprises/allTemplate.html");
+   });  
+</script>
+<script> 
+   $(function(){
+    $("#secondDiv").load("football/underappreciated/allTemplate.html");
+   });  
+</script>
 <style>
 h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 h1,h6 {
@@ -81,53 +92,9 @@ and is wrapped around the whole page content, except for the footer in this exam
   <!-- Grid -->
 <div class="w3-row w3-padding w3-border">
 <h2 style="text-align:center"> All Posts</h2>
-      <div class="w3-col l6 s12">
-
-      <div class="w3-light-blue w3-light-grey w3-margin w3-padding-large">
-        <div class="w3-center">
-          <h3><a href="am_football/surprises/post.html">Top 3 Positive Surprises in the 2017 NFL Season</a></h3>
-          <h5><span class="w3-opacity">Jan 3, 2018</span></h5>
-        </div>
-
-        <div class="w3-justify">
-          <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-              <img src="am_football/surprises/images/hunt.jpg">
-          <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-          <p class="w3-clear"></p>
-          <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
-            <hr>
-              <div class="w3-col l2 m3">
-              </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-      <div class="w3-col l6 s12">
-
-      <div class="w3-light-blue w3-light-grey w3-margin w3-padding-large">
-        <div class="w3-center">
-          <h3><a href="football/underappreciated/post.html">Underappreciated Football Stars in Europe's Top Leagues</a></h3>
-          <h5><span class="w3-opacity">Jan 3, 2018</span></h5>
-        </div>
-
-        <div class="w3-justify">
-          <p><strong>More Hats!</strong> I am crazy about hats these days. Some text about this blog entry. Fashion fashion and mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor
-            magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sedtellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-            <img src="football/underappreciated/images/nacho.jpg">
-          <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-          <p class="w3-clear"></p>
-          <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
-            <hr>
-              <div class="w3-col l2 m3">
-              </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  </div>
+    <div id="firstDiv"></div>  
+    <div id="secondDiv"></div>  
+</div>
 </div>
 
 </body>
