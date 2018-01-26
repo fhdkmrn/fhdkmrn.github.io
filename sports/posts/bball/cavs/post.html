@@ -1,22 +1,17 @@
 <!DOCTYPE html>
 <html>
-<title>Ballin' With Fahad</title>
+<title>Cavs in Chaos: What's with the Cavaliers Mid-Season Decline?</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="shortcut icon" href="image/sport.ico" type="image/x-icon">
+<link rel="shortcut icon" href="../../../image/sport.ico" type="image/x-icon">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-<script>  
-   $(function(){
-    $("#firstDiv").load("posts/bball/cavs/baseTemplate.html");
-   });  
-</script> 
 <script> 
    $(function(){
-    $("#secondDiv").load("posts/football/tapins/baseTemplate.html");
+    $("#firstDiv").load("postTemplate.html");
    });  
 </script>
 <style>
@@ -24,7 +19,7 @@ h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
 h1,h6 {
   color: white;
 }
-h2 { 
+h2 {
   color: light-grey;
 }
 body {
@@ -38,13 +33,21 @@ body {
 
 }
 img {
-  width: 100%;
-  height:100%;
+  width: 70%;
+  height:70%;
+  display: block;
+  margin: 0 auto;
+
+}
+iframe {
   display: block;
   margin: 0 auto;
 }
+figcaption {
+  text-align: center;
+}
 header {
-  background-image: url("image/banner.png");
+  background-image: url("../../../image/banner.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
@@ -64,27 +67,32 @@ header {
 
 }
 .active {
-  color:#000!important;background-color:#ccc!important
+  color:#000!important;background-color:#ccc!important;
+}
+
+.post-size {
+  width: 90%;
+  margin: auto;
 }
 </style>
 <head> 
-<meta property="og:description" content="Homepage of Ballin' with Fahad, an up and coming sports blog focusing on basketball, football, and american football." />
+<meta property="og:description" content="The Cavs are going on a historically bad run in recent games. See what factors are contributing to their current decline in form." />
 
-<meta property="og:title" content="Ballin' with Fahad" />
-</head> 
+<meta property="og:title" content="Cavs in Chaos: What's with the Cavaliers Mid-Season Decline?" />
+</head>  
 <body class="w3-dark-grey"> 
 <div class="w3-bar w3-black">
-  <a href="home.html" class="w3-bar-item w3-button w3-mobile active">Home</a>
-  <a href="posts/index.html" class="w3-bar-item w3-button w3-mobile">All Posts</a>
-  <a href="posts/football/index.html" class="w3-bar-item w3-button w3-mobile">Football</a>
-  <a href="posts/am_football/index.html" class="w3-bar-item w3-button w3-mobile">American Football</a>
-  <a href="posts/bball/index.html" class="w3-bar-item w3-button w3-mobile">Basketball</a> 
-  <a href="posts/other/index.html" class="w3-bar-item w3-button w3-mobile">Other Sports</a>
-  <a href="about.html" class="w3-bar-item w3-button w3-mobile">About</a> 
-</div> 
+  <a href="../../../home.html" class="w3-bar-item w3-button w3-mobile">Home</a>
+  <a href="../../index.html" class="w3-bar-item w3-button w3-mobile">All Posts</a>
+  <a href="../../index.html" class="w3-bar-item w3-button w3-mobile">Football</a>
+  <a href="../../am_football/index.html" class="w3-bar-item w3-button w3-mobile">American Football</a>
+  <a href="../bball/index.html" class="w3-bar-item w3-button w3-mobile active">Basketball</a>
+  <a href="../../other/index.html" class="w3-bar-item w3-button w3-mobile">Other Sports</a>
+  <a href="../../../about.html" class="w3-bar-item w3-button w3-mobile">About</a> 
+</div>
    
 <!-- w3-content defines a container for fixed size centered content, 
-and is wrapped around the whole page content, except for the footer in this example -->  
+and is wrapped around the whole page content, except for the footer in this example -->
 <div class="w3-contentt" style="max-width:1800px">
 
   <!-- Header -->
@@ -92,11 +100,10 @@ and is wrapped around the whole page content, except for the footer in this exam
     <h1 class="w3-xxxlarge"><b>BALLIN' WITH FAHAD</b></h1>
     <h6>A Sports Blog by Fahad Kamran</h6>
   </header>
+
   <!-- Grid -->
 <div class="w3-row w3-padding w3-border">
-<h2 style="text-align:center"> Recent Posts</h2>
     <div id="firstDiv"></div>  
-    <div id="secondDiv"></div>  
 </div>
 </div>
 </body>
