@@ -75,8 +75,8 @@ header .banner-text {
     z-index:0;
     opacity:0.5;
 }
-header .banner-text h3 span,
-header .banner-text h3 a {
+header .banner-text h4 span,
+header .banner-text h4 a {
    color: #fff;
 }
 header .banner-text hr {
