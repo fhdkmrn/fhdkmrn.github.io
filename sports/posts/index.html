@@ -11,6 +11,11 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script> 
    $(function(){
+    $("#fifthDiv").load("bball/allstar/allTemplate.html");
+   });  
+</script>
+<script> 
+   $(function(){
     $("#fourthDiv").load("football/predictions/allTemplate.html");
    });  
 </script>
@@ -107,6 +112,7 @@ and is wrapped around the whole page content, except for the footer in this exam
   <!-- Grid -->
 <div class="w3-row w3-padding w3-border">
 <h2 style="text-align:center"> All Posts</h2>
+    <div id="fifthDiv"></div>
     <div id="fourthDiv"></div>
     <div id="firstDiv"></div>  
     <div id="secondDiv"></div>  
